@@ -1,7 +1,7 @@
 DEBUG = True
 
 USERNAME = 'root'
-PASSWORD = 'Jogo$077'
+PASSWORD = 'your password here'
 SERVER = 'localhost'
 DB = 'api_flask'
 
